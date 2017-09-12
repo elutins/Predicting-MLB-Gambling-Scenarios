@@ -29,7 +29,7 @@ The capstone is an opportunity to demonstrate your ability to perform and presen
 The data for your project is the single most difficult problem you will face. The potential to tell a story, build predictive models, or even brainstorm, will be dependent on the actual dataset that you will use.
 
 You may not know what you can do until you get a good set of data. It's a good idea to look around for datasets as early as possible. Completing your capstone will be entirely contingent upon this data - your data sets the maximum and minimum for what you can achieve.
-
+<!--
 **Please save these csv files on your local computer** Do not put them in your github repo. The size of the files can cause github to crash if you attempt to push them to the remote repo.
 
 ### Scenario 1: State tax board
@@ -180,4 +180,4 @@ Your instructors will score each of your technical requirements using the scale 
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+ This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project! -->
