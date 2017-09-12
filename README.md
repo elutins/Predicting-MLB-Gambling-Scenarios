@@ -1,21 +1,34 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: Predicting MLB Gambling Scenarios
 
-### Overview
-Whatever you ultimately choose for your capstone is up to you. The capstone is an opportunity to demonstrate your ability to perform and present the knowledge and growth of twelve weeks of a very intense class.
-Consider the capstone also as an opporunity to present to potential employers in job interviews when they ask you to "tell me about a project that you've done recently". This is the perfect opportunity to talk about your capstone in great detail. Hitting as many topics as possible in your project opens the discussions within a job interview context in many ways:
-It allows an employer to discover your areas of strength.
-It allows you to (hopefully excitedly!) discuss an area of interest.
-It hopefully opens the door for broader conversations about your struggles, problem-solving abilities, and your grit.
-Building a neural network model for something obscure and cool may be great, but choosing something that can exercise a broader range of skills is strongly recommended.
-Data collection
-Data munging
-EDA
-Feature engineering
-Modeling / machine learning
-Model evaluation
-Interpretation
-Visualizing and communicating results
-Be prepared to discuss why the models you chose make sense, and how the data work with it given the goal.
+## Overview
+The capstone is an opportunity to demonstrate your ability to perform and present the knowledge and growth of twelve weeks of a very intense class. Building a neural network model for something obscure and cool may be great, but choosing something that can exercise a broader range of skills is strongly recommended.
+* Data collection
+* Data munging
+* EDA
+* Feature engineering
+* Modeling / machine learning
+* Model evaluation
+* Interpretation
+* Visualizing and communicating results
+* Be prepared to discuss why the models you chose make sense, and how the data work with it given the goal.
+
+
+## Capstone Process
+* Define your problem statement.
+* After articulating your problem statement, outline your goals and success criteria.
+* Describe 1-2 potential datasets that address your problem statement. Identify the source and the format of your dataset(s).
+* Identify a potential audience of stakeholders who may be interested in your findings.
+* Solve your problem!
+* Create a 12-15 minute presentation slide deck. This slide deck should be accessible to a wide audience - especially since you'll likely be the only subject-matter expert in the room. However, you'll also want to include details so that we understand your thought process and how well you were able to solve your problem.
+* Be prepared to discuss and defend your work... from your choice of dataset to your model-building decisions to your conclusions. They're all fair game!
+* Include your slides in your portfolio.
+* Create at least one blog post about your findings.
+
+
+## The Data
+The data for your project is the single most difficult problem you will face. The potential to tell a story, build predictive models, or even brainstorm, will be dependent on the actual dataset that you will use.
+
+You may not know what you can do until you get a good set of data. It's a good idea to look around for datasets as early as possible. Completing your capstone will be entirely contingent upon this data - your data sets the maximum and minimum for what you can achieve.
 
 **Please save these csv files on your local computer** Do not put them in your github repo. The size of the files can cause github to crash if you attempt to push them to the remote repo.
 
