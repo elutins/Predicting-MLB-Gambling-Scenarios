@@ -194,7 +194,7 @@
     "> - Description of any source code used to conduct analysis\n",
     "> - Stakeholder recommendations & next steps for model/peers\n",
     "\n",
-    <!-- "#### Bonus\n",
+    "#### Bonus\n",
     "\n",
     "- Describe how you could continue to validate your model's performance over time\n",
     "- Explain how you would deploy your model in a production environment\n",
@@ -205,7 +205,7 @@
     "_Week 12: 9:00 a.m., Thursday, September 7_\n",
     "\n",
     "We'll delve more into the explicit deliverables required later, but it will be a polished version of the technical first draft due earlier in the week."
-   ] -->
+   ]
   }
  ],
  "metadata": {
